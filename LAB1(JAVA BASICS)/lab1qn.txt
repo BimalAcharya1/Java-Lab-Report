@@ -1,0 +1,11 @@
+                     Java Basics
+
+1. Wap in java to print "Patan Multiple Campus"
+
+2. Wap in java to find sum, difference, multiplication and division of two number.
+
+3. Wap in java to find Area and Perimeter of rectangle input are taken from command line.
+
+4. Wap in java to convert "degree celcius" to "Fahrenheit" using command line input.
+
+5. Wap in java to compute simple interest using command line input.

@@ -1,0 +1,20 @@
+      JAVA DATA TYPES, EXPRESSION AND OPERATORS
+
+1. Write a java program to evaluate following expression if a=    9, b=13 and c=3.
+  i.   x= a-b/3.0+c*2-1;
+  ii.  y= a-(float)b/(3+c)*(2-1);
+  iii. z= a-((float)b/(3+c)*2)-1;
+
+2. Write a java program to swap two variables values with and without using third variables.
+
+3. Write a java program to find largest and smallest number
+among three input number using ternary operator.
+
+4. Write a java program to input marks of 5 subjects,
+calculate and display the total and average marks.
+
+5. Write a java program to perform all bitwise operation on two input integer values.
+
+
+
+
