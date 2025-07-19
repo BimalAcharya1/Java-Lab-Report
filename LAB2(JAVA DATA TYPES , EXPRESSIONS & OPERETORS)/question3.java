@@ -1,3 +1,9 @@
+//3. Write a java program to find largest and smallest number
+among three input number using ternary operator. //
+
+
+
+
 import java.util.Scanner;
 public class question3{
 public static void main(String[]args){
