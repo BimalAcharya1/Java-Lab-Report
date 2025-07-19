@@ -1,5 +1,9 @@
+/* 6. Write a java program to illustrate the following Swing component
+a. JMenu
+b. JTable
+c. JInternalFrame and Desktop */
 
-import javax.swing.*;
+
 
 public class SwingComponentsDemo extends JFrame {
     public SwingComponentsDemo() {
