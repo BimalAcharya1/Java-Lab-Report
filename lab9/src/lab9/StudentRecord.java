@@ -1,4 +1,4 @@
-/* Wap in java tosave 3 students record(such as Roll, name, address and phone number) into file Student.txt and 
+/* 3.Wap in java tosave 3 students record(such as Roll, name, address and phone number) into file Student.txt and 
 display the student record whose address is kirtipur. */
 
 package Lab9;
