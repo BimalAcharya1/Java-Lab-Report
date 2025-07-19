@@ -1,7 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+/* 3.Write a program to demonstrate following string related function 
+a. Character extraction function (charAt(), getChars(), toCharArray()). 
+b. String Comparison function (equals(), equalslgnoreCase(l), CompareTo()). 
+C. Modifying string function (substringl), concat(), replace()). 
+*/
+
+
 package Lab8;
 
 public class StringHandling {
