@@ -1,3 +1,6 @@
+/* 3. Create a base class Fruit which has name, taste and size as its attributes. A  methods called eat() is created which describes the name of the fruit 
+and its taste Inhenit the same in 2 other class Apple and Orange and override the eat() method to represent each fruit taste. */
+
 // Base class Fruit
 class Fruit {
     String name;
