@@ -1,5 +1,5 @@
-//3. Write a java program to find largest and smallest number
-among three input number using ternary operator. //
+/* 3. Write a java program to find largest and smallest number
+among three input number using ternary operator. */
 
 
 
