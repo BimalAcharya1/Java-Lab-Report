@@ -1,3 +1,7 @@
+/* 1. Write a java program using swing component to find Area and Perimeter of Rectangle Use text field for inputs and outputs.
+    Your program should display the result when the user click a button. */
+
+
 import javax.swing.*;
 import java.awt.event.*;
 
