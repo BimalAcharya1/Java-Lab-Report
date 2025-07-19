@@ -1,3 +1,7 @@
+//2. Write a java program to swap two variables values without using third variables.
+
+
+
 import java.util.Scanner;
 public class question2_2{
 public static void main(String[]args){
