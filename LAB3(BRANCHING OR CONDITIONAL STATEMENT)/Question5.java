@@ -1,3 +1,5 @@
+// 5. Wap in java to input two number and arithmetic operetor from user and perform all arithmetic operation(+,-,*,/,%) using switch case statement
+
 import java.util.Scanner;
 
 public class Question5 {
