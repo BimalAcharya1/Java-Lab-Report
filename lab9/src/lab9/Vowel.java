@@ -1,4 +1,4 @@
-/* Wap in java to write a sentence "Java is Object Oriented Language" using FileOutputStream class and Read this file using FileInputStream class and find
+/* 1.Wap in java to write a sentence "Java is Object Oriented Language" using FileOutputStream class and Read this file using FileInputStream class and find
     total number of vowel in the file. */
 
 package Lab9;
