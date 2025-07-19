@@ -1,3 +1,10 @@
+/* 5.Wap in java to illustrate the following class java util package
+    a.Vector class
+    b.Stack class
+    c.Hashtable class
+    d.Random class 
+*/
+
 package Lab9;
 
 import java.util.Vector;
