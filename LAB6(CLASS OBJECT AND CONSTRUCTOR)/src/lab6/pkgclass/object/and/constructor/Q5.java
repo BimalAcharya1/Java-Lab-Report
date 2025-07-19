@@ -1,3 +1,8 @@
+/* 5.Create a java class time with three artribute hours, minutes, and seconds. 
+Use appropriate constructors to initalize instance variable. Use methods to 
+display time HH:MM:SS format add and subtract two time object. 
+Implement the class to add, subtract aad display time object  */
+
 class Time {
     int hour;
     int min;
