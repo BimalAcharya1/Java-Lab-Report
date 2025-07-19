@@ -1,3 +1,5 @@
+/* 8.Wap in java to implement member inner class and static inner class */
+
 class OuterClass {
     class MemberInnerClass {
         void display() {
