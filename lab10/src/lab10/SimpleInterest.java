@@ -1,3 +1,6 @@
+/* 4.Write a java program to compute simple interest. The input and output required are taken from/to prebuilt dialog box. */
+
+
 import javax.swing.*;
 
 public class SimpleInterest {
