@@ -1,3 +1,6 @@
+/* 7.Wap in java to implement Static field and static method. */
+
+
 public class Q7 {
 
     static int count = 0;
