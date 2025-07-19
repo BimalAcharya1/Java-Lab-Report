@@ -1,3 +1,5 @@
+// 1. Write a java program to find sum of array element of size n. 
+
 import java.util.Scanner;
 public class question1{
 public static void main(String[] args){
