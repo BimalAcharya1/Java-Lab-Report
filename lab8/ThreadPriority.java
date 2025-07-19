@@ -1,7 +1,4 @@
-/* 4.Write a java program to develop multithreaded application by following ways 
-a. By implementing Runnable Interface 
-b. By extending Thread class. 
-*/
+
 
 package Lab8;
 
