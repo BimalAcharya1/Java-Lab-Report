@@ -1,3 +1,5 @@
+// 4. Wap in java to check input number is odd and divisible by three or even and devisible by three using nested if else statement.
+
 import java.util.Scanner;
 public class Question4
 {
