@@ -1,3 +1,6 @@
+// 2. Write a java program to find minimum and maximum element fo 1D array of size n.
+
+
 import java.util.Scanner;
 public class question2{
        public static void main(String[] args){
