@@ -1,3 +1,5 @@
+// 3.Write a java program to find second largest number among three input number using else if ladder statement.
+
 import java.util.Scanner;
 public class Question3
 {
