@@ -1,3 +1,5 @@
+/* 3.Write a Java program to find the smallest and largest among three numbers using swing components. 
+    Use text fields for input and output. Your program button. should display the result when the user press. */
 
 
 import javax.swing.*;
