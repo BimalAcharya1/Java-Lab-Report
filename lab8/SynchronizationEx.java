@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+/* 6.Write a java program to demonstrate the concept of synchronization in multithreaded applications. */
 package Lab8;
 
 class print {
