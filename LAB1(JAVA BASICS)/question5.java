@@ -1,3 +1,5 @@
+//WAp in java in command line TO calculate simple interest
+
 public class question5
 {
 public static void main(String[]args)
