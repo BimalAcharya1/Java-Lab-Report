@@ -1,3 +1,5 @@
+//5. Write a java program to find sum of odd number from 1 to 50 using continue statement.
+
 public class question5
 {
  public static void main(String[] args)
