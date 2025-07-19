@@ -1,3 +1,5 @@
+//4. Write a java program to test whether input number is perfect or not 
+
 import java.util.Scanner;
 public class question4
 {
