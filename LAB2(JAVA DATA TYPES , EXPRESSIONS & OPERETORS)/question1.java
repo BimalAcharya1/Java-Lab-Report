@@ -3,6 +3,8 @@
   ii.  y= a-(float)b/(3+c)*(2-1);
   iii. z= a-((float)b/(3+c)*2)-1;
 //
+
+
 public class question1{
 public static void main(String[]args){
 int a=9;
