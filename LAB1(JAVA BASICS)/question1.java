@@ -1,3 +1,4 @@
+//WAp to print patan multiple campus
 public class question1
 {
 public static void main(String[]args)
