@@ -1,3 +1,5 @@
+//5. Write a java program to perform all bitwise operation on two input integer values.
+
 import java.util.Scanner;
 public class question5{
 public static void main(String[]args){
