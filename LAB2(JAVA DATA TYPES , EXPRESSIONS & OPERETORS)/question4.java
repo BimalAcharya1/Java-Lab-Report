@@ -1,5 +1,5 @@
-//4. Write a java program to input marks of 5 subjects,
-calculate and display the total and average marks. //
+/* 4. Write a java program to input marks of 5 subjects,
+calculate and display the total and average marks.*/
 
 
 
