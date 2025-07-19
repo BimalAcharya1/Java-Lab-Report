@@ -1,7 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+/* 4.Write a java program to develop multithreaded application by following ways 
+a. By implementing Runnable Interface 
+b. By extending Thread class. 
+*/
+
 package Lab8;
 
 class evenThread implements Runnable{
