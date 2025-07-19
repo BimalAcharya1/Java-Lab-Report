@@ -1,4 +1,7 @@
-
+/* 4.Write a class Distance containing private variables feet of type unt and inches 
+of type int. suitable costuctors and two methods addDistance and 
+displayDistance for adding and display distance objects. Write a separate 
+class MyDistance containing main method to create and vuse distance objects */
 
 class Distance {
     private int feet;
