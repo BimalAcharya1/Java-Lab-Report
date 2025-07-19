@@ -1,3 +1,5 @@
+// 5.Write a java program to declare and initalized jagged array and display the jagged array with sum of individual row.
+
 public class question5 {
     public static void main(String[] args) {
      
