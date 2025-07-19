@@ -40,11 +40,21 @@ class EmployeeCRUD {
                 scanner.nextLine(); // Consume newline left-over after nextInt()
 
                 switch (choice) {
-                    case 1: insertEmployee(); break;
-                    case 2: displayEmployees(); break;
-                    case 3: updateEmployee(); break;
-                    case 4: deleteEmployee(); break;
-                    case 5: System.out.println("Exiting..."); break;
+                    case 1: 
+                        insertEmployee();
+                        break;
+                    case 2: 
+                        displayEmployees(); 
+                        break;
+                    case 3: 
+                        updateEmployee(); 
+                        break;
+                    case 4: 
+                        deleteEmployee(); 
+                        break;
+                    case 5: 
+                        System.out.println("Exiting..."); 
+                        break;
                     default: System.out.println("Invalid choice.");
                 }
             } while (choice != 5);
