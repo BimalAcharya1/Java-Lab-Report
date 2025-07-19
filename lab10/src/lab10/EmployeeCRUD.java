@@ -1,3 +1,8 @@
+/*7. Write a Java program to connect to the database and perform CRUD operation
+[(Database: Company Table: Employee (Eid, Name, Address And Department))]
+import javax.swing.*; */
+
+
 package lab10;
 
 
