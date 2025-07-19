@@ -1,3 +1,5 @@
+/*5. Write a java program to test whether input number is odd or even */
+
 import java.util.Scanner;
 public class Question1
 {
