@@ -1,4 +1,4 @@
-//2. Write a java program to swap two variables values with and without using third variables.
+//2. Write a java program to swap two variables values with  using third variables.
 
 
 
