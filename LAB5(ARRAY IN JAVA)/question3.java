@@ -1,3 +1,5 @@
+// 3.Write a java program to sort array element in ascending order. 
+
 public class question3{
     public static void main(String[] args) {
         int[] array = {5, 3, 8, 2, 1, 4}; // Example array
