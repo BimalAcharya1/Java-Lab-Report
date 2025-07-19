@@ -1,3 +1,8 @@
+/* 2. Write a java program to illustrate concept of following inheritance 
+a. Single-level Inheritance 
+b. Multi-Level Inheritance 
+C. Hierarchical Inheritance  */
+
 // Single-level Inheritance
 class Animal {
     void sound() {
