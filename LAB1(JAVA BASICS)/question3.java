@@ -1,3 +1,5 @@
+//WAp in java in command line TO Calculate area and perimeter of rectangle
+
 public class question3
 {
 public static void main(String[]args)
