@@ -1,3 +1,5 @@
+//2. Write a java program to check input number is prime or not. 
+
 import java.util.Scanner;
 public class question2
 {
