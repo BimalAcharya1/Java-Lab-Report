@@ -1,3 +1,5 @@
+/* 6.Wap in java to illustrate the concept of call by value and call by reference. */
+
 public class Q6 {
 
     public static void callByValue(int a) {
