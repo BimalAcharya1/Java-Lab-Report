@@ -1,3 +1,5 @@
+// 2.Write a java program to test given number is positive or negative or zero using else if ladder statement.
+
 import java.util.Scanner;
 public class Question2
 {
