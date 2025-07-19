@@ -1,3 +1,5 @@
+// 1. Write a java program to find sum of individual digit of input aumber using while loop. 
+
 import java.util.Scanner;
 public class question1
 {
