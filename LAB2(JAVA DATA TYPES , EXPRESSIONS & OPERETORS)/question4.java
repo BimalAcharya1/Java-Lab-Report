@@ -1,3 +1,9 @@
+//4. Write a java program to input marks of 5 subjects,
+calculate and display the total and average marks. //
+
+
+
+
 import java.util.Scanner;
 public class question4{
 public static void main(String[]args){
