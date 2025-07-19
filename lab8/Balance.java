@@ -1,7 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+/* 2.Write a java program that will read balance and withdraw amount from keyboard and display the remaining balance on screen if the balance 
+is greater than withdraw amount otherwise throw an exception with appropriate amount message.  */
+
+
 package Lab8;
 
 import java.util.Scanner;
