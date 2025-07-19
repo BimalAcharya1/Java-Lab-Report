@@ -1,3 +1,7 @@
+/* 2.Write a java program to create a class student having property name, address 
+and roll. Set default and user defined value of these property using 
+constructors and then display values of these property */
+
 class Student {
     String name;
     String address;
