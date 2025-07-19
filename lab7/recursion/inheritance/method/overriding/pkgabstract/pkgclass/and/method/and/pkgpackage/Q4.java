@@ -1,3 +1,7 @@
+/* Write a jaya program to create class named Shape. It should contain one methods area() that prints area of shape. For this class create two sub class
+Triangle and Rectangle and each class should override the parent class function area(). Create object of Triangle and Rectangle to observe the 
+polymorphic naturel of class */
+
 // Base class Shape
 class Shape {
     // Method to be overridden in subclasses
