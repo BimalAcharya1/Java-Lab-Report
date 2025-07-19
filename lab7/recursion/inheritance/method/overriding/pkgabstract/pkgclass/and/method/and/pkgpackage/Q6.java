@@ -1,3 +1,5 @@
+/* 6.Write a java class to immplement concept of abstract class and abstract methods.  */
+
 //Abstract class Animal
 
 abstract class Animal {
