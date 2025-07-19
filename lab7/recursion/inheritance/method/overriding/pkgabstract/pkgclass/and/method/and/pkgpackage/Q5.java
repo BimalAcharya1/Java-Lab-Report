@@ -1,3 +1,5 @@
+/* 5.Write a java program to develop calculator application (add, subtract, multiplication and division) using multiple inheritance. */
+
 // Interface for Addition
 interface Addition {
     double add(double a, double b);
