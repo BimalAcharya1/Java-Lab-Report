@@ -1,3 +1,8 @@
+/* 2.Write a program using Swing components to add and subtract two numbers. Use text fields for inputs and output.
+    Your program should display the result when the user press button. /*
+
+
+
 
 import javax.swing.*;
 import java.awt.event.*;
