@@ -1,3 +1,5 @@
+//Wap in java in command line interface to perform arithmetic operation
+
 public class question2
 {
 public static void main(String[]args)
