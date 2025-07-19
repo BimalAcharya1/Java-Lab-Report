@@ -1,3 +1,5 @@
+//3. Write a java program to test given imput number is Armstrong or not 
+
 import java.util.Scanner;
 public class question3
 {
